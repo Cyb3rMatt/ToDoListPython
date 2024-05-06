@@ -1,1 +1,1 @@
-###When you add a tasks refresh your folder and it should appear
+When you add a task refresh your folder and it should appear
